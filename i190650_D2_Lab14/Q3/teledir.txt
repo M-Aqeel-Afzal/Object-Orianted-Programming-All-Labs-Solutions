@@ -1,0 +1,4 @@
+Name         Adress   Phone_Number 
+Ali         Lahore    04530000000
+Ali        Bhakkar    04530000001
+Khan        karachi    04530000000
