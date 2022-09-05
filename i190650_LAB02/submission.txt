@@ -1,0 +1,46 @@
+#include<iostream>
+#include <cstring>
+
+/***** Rename your .cpp file with lab2.cpp *****/
+int split(int a[],int size,int index)
+{	
+	//your code here	
+int value=Array_B[index];
+return value;
+}
+
+int sum(int* array, int length) 
+{ 	//your code here
+
+
+	
+}
+bool find(int* begin, int* end, int value, int size)
+{	
+	//your code here
+}
+
+int reverse(int *arr,int size,int index)
+{	
+   //your code here
+for(int i=size;i>=0;i--)
+{cout<<*(arr+i)<<",";
+}
+int value=Array_B[index];
+return value;	
+}
+int myStrLen(char* s) 
+{
+  //your code here
+{int a=0;
+  //your code here
+while(n=1)
+{if(s=="/0")
+{n=-1;
+break;
+}
+a++;
+}
+return a;
+}}
+
